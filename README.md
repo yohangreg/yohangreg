@@ -13,7 +13,7 @@
     <img align="center" alt="Yohan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Yohan-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
     <img align="center" alt="Yohan-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-    <img align="right" alt="Yohan-gif" height="150" style="border-radius:50px;" src="https://drive.google.com/file/d/1aKnI02mUm_3iIIfheY26Xx7A4hfyAaFg/view?usp=sharing">
+    <img align="right" alt="Yohan-gif" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1031919869387616286/1031921806812139561/Design_sem_nome.gif?width=650&height=656">
   </div>
 </div>
 
