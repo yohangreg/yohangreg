@@ -1,10 +1,25 @@
-# Olá! Dev!
-<a href="https://github.com/yohangreg">
-  
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohangreg&layout=compact&langs_count=7&theme=dracula"/>
+# Olá, Dev!
+![](https://komarev.com/ghpvc/?username=yohangreg&color=006bed)
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" height="165em">
+<img height="165em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohangreg&layout=compact&langs_count=7&theme=dracula"/>
 
+## Sobre mim 
+
+<p align="left"> 
+  - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+</p>
+
+<p align="left"> 
+  - 🎓 Estudando **SEU CURSO** no <a href="link da sua faculdade">SUA FACULDADE</a>.
+</p>
+
+<p align="left"> 
+  - 💼 Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>
+</p>
+
+<p align="left"> 
+  - 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.
+</p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Yohan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
