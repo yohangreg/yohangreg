@@ -1,10 +1,8 @@
 ### Olá! Sou o Yohan, programador Back-End e estudante de novas tecnologias!
 
-<div align="center">
-  <a href="https://github.com/yohangreg">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=yohangreg&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohangreg&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
+<a href="https://github.com/yohangreg">
+<img align="left" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohangreg&layout=compact&langs_count=7&theme=cobalt"/>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 <div style="display: inline_block"><br>
   <img align="center" alt="Yohan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Yohan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
