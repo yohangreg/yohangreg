@@ -18,7 +18,7 @@
 
 <p align="left"> 
   - 🌱 &nbsp; Aprendendo mais sobre 
-      <img height="10" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+      <img height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
           
 </p>
 
