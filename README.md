@@ -1,9 +1,10 @@
-### Olá! Sou o Yohan, programador Back-End e estudante de novas tecnologias!
-<div class="row">
-  <a href="https://github.com/yohangreg">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohangreg&layout=compact&langs_count=7&theme=cobalt"/>
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" height="165em">
-</div>
+# Olá! Dev!
+<a href="https://github.com/yohangreg">
+  
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohangreg&layout=compact&langs_count=7&theme=dracula"/>
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" height="165em">
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Yohan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
