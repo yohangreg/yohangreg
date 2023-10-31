@@ -1,5 +1,4 @@
 # Olá, Dev!
-![](https://komarev.com/ghpvc/?username=yohangreg&color=006bed)
 
 <img height="165em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohangreg&layout=compact&langs_count=7&theme=dracula"/>
 
@@ -10,15 +9,17 @@
 </p>
 
 <p align="left"> 
-  - 🎓 Estudando **SEU CURSO** no <a href="link da sua faculdade">SUA FACULDADE</a>.
+  - 🎓 Estudante de Sistema da Informação na <a href="https://github.com/ICEI-PUC-Minas-PMV-SI">PUC</a>.
 </p>
 
 <p align="left"> 
-  - 💼 Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>
+  - 💼 Trabalhando atualmente como Back-End
 </p>
 
 <p align="left"> 
-  - 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.
+  - 🌱 &nbsp; Aprendendo mais sobre 
+      <img height="10" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+          
 </p>
 
 <div style="display: inline_block"><br>
