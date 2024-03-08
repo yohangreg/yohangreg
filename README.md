@@ -1,23 +1,23 @@
-<h1>Olá, Dev!</h1>
+<h1>Hi, Dev!</h1>
 
 <img height="165em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohangreg&layout=compact&langs_count=7&theme=dracula"/>
 
 ## Sobre mim 
 
 <p align="left"> 
-  - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+  - 🤔 Exploring new technologies and developing software solutions.
 </p>
 
 <p align="left"> 
-  - 🎓 Estudante de Sistema da Informação na <a href="https://github.com/ICEI-PUC-Minas-PMV-SI">PUC</a>.
+  - 🎓Information Systems student at <a href="https://github.com/ICEI-PUC-Minas-PMV-SI">PUC</a>.
 </p>
 
 <p align="left"> 
-  - 💼 Trabalhando atualmente como Back-End
+  - 💼 Currently working as a software engineer.
 </p>
 
 <p align="left"> 
-  - 🌱 Aprendendo mais sobre 
+  - 🌱 Learning more about
       <img height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />    
       <img height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
       <img height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
